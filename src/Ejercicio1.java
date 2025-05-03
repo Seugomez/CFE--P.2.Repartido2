@@ -11,8 +11,6 @@ public class Ejercicio1 {
         } else {
             System.out.println("El número 0 es NEUTRO.");
         }
-
-        // Cerrar el scanner
         leer.close();
     }
 }
